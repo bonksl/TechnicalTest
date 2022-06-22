@@ -8,6 +8,7 @@ This repository is the solution to the assigned problems written in python. A to
 3) Missing Integer Problem
 4) Minimum Average Two Slice Problem
 5) Brackets Problem
+Along with the solved problem, a list of unit tests are ran. 
 
 Create and enter new working directory. eg "5 Questions"
 
@@ -20,6 +21,14 @@ Activate Environment
 source env/bin/activate
 ```
 Install requirements for local development
+```
+pip install -r requirements.txt
+```
+To run the tests from the command line, enter the file name corresponding to the problem. 
+eg.
+```
+python PricingProblem.py
+```
 
 ---
 ## License & copyright
