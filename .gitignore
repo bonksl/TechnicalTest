@@ -1,0 +1,10 @@
+# tmp files
+__pycache__
+**/*.pyc
+# pycharm
+.idea
+# dist files
+dist
+*.egg-info
+# env
+env

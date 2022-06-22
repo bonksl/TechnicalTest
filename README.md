@@ -1,4 +1,4 @@
-**Version 1.0.0**
+**Bon Solution: Version 1.0.0**
 
 #A readme for 5 Python Technical Problems
 
@@ -20,14 +20,12 @@ Activate Environment
 ```
 source env/bin/activate
 ```
-Install requirements for local development
-```
-pip install -r requirements.txt
-```
+Installaltions are not required for running this package
+
 To run the tests from the command line, enter the file name corresponding to the problem. 
 eg.
 ```
-python PricingProblem.py
+python -m unittest .\test\test_pricing_problem.py  
 ```
 
 ---
