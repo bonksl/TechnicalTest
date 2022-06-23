@@ -1,9 +1,8 @@
-import unittest
-
-
 def solution(S):
     pairs = {"{": "}", "(": ")", "[": "]"}
     stack = []
+    if (len(S) == 1):
+        return 0
     for i in S:
         # first bracket correct, storing into list
         if i in pairs.keys():

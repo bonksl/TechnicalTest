@@ -20,7 +20,10 @@ Activate Environment
 ```
 source env/bin/activate
 ```
-Installaltions are not required for running this package
+Installations are not required for running this package but placed in for example purposes.
+```
+pip install requirements.txt
+```
 
 To run the tests from the command line, enter the file name corresponding to the problem. 
 eg.

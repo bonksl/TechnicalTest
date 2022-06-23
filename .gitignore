@@ -1,5 +1,5 @@
 # tmp files
-__pycache__
+git p__pycache__
 **/*.pyc
 # pycharm
 .idea

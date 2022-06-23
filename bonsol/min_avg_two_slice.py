@@ -1,6 +1,3 @@
-import unittest
-
-
 def solution(A):
     minVal = 10000
     minIdx = 0
